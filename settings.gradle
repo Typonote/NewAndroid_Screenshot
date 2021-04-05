@@ -1,0 +1,3 @@
+include ':screenshot'
+include ':app'
+rootProject.name = "NewScreenShot"
